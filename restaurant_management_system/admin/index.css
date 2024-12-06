@@ -1,0 +1,50 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(110, 110, 250);
+
+}
+
+.root {
+    padding: 2rem 3em !important;
+    font-family: sans-serif;
+}
+
+table {
+    margin-top: 1rem !important;
+    /* background-color: bisque !important; */
+}
+
+th {
+    background-color: #e6e6e6;
+    padding: 10px !important;
+    min-width: 10rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-align: left !important;
+}
+
+td {
+    padding: 1rem 10px !important;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.279) !important;
+    font-size: 1.1rem;
+}
+
+select {
+    padding: 5px !important;
+    background-color: rgb(11, 232, 48);
+    color: white;
+    font-size: 1.1rem;
+    width: 8rem;
+}
+
+input {
+    padding: 5px !important;
+    font-size: 1.1rem;
+    width: 8rem;
+    cursor: pointer;
+}

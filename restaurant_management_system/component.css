@@ -1,0 +1,21 @@
+.button-primary {
+    background-color: #39DB4A;
+    border: 2px solid #39DB4A;
+    outline: none;
+    color: white;
+    padding: 10px 32px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.button-secondary {
+    background-color: transparent;
+    border: 2px solid #39DB4A;
+    outline: none;
+    color: #39DB4A;
+    padding: 10px 32px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
